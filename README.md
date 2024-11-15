@@ -9,7 +9,7 @@
 
 # Laravel Project
 
-Ini adalah proyek berbasis Laravel yang dirancang untuk [deskripsi singkat tujuan proyek Anda].
+Ini adalah proyek berbasis Laravel yang dirancang untuk menghidari kehilangan data peminjaman .
 
 ## Prasyarat
 
