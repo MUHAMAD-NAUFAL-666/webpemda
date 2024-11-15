@@ -7,6 +7,28 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Laravel Project
+
+Ini adalah proyek berbasis Laravel yang dirancang untuk [deskripsi singkat tujuan proyek Anda].
+
+## Prasyarat
+
+Pastikan Anda memiliki hal-hal berikut yang sudah terinstal:
+
+- **PHP 8.1 atau lebih baru**: [Unduh PHP](https://www.php.net/downloads)
+- **Composer**: [Unduh Composer](https://getcomposer.org/download/)
+- **Node.js & npm**: [Unduh Node.js](https://nodejs.org/)
+- **Database (MySQL/PostgreSQL/SQLite)**
+
+## Instalasi
+
+Ikuti langkah-langkah di bawah ini untuk menginstal proyek ini secara lokal:
+
+1. **Clone repositori ini**:
+   ```bash
+   git clone https://github.com/MHMD-NAUFAL-666/webpemda.git
+   cd webpemda
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
